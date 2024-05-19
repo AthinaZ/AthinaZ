@@ -1,6 +1,6 @@
 # Hi, I'm Athina! 👋
 
-I am a passionate about web and mobile development!!
+I am passionate about web and mobile development!!
 
 <br>
 
